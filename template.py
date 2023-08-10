@@ -25,8 +25,7 @@ list_of_files=[
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "research/trails.ipynb"
-  
+    "research/trails.ipynb",
 ]
 for filepath in list_of_files:
     filepath=Path(filepath)
